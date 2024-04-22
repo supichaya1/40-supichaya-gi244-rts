@@ -1745,7 +1745,7 @@ SkinnedMeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 1540fc37fe4429b4589aeed0285fd0ba, type: 2}
+  - {fileID: 2100000, guid: 78edba5dc4cc2684c8e99f363873ff77, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6228,7 +6228,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: 0
   unitName: Brit. Builder
-  unitPic: {fileID: 21300000, guid: ff8868855c380834e98901f6caca024c, type: 3}
+  unitPic: {fileID: 21300000, guid: 06b90c0d4db6f1c44bc3aff269d8d042, type: 3}
   curHP: 100
   maxHP: 100
   moveSpeed: 5
